@@ -1,0 +1,85 @@
+body {
+    background-color: #3564f0;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    color: #ffffff;
+    margin-left:20px;
+    font-size: 30px;
+}
+h2 {
+   color: #ffffff;
+   margin-left: 20px;
+   text-align: center;
+}
+ol {
+  color: #ffffff;
+  font-size: 24px;
+  margin-left: 20px;
+
+}
+p {
+  color:#ffffff;
+  font-size: 24px;
+  margin-left: 50px;
+  font-family: 'Cantata One', serif;
+  margin-right:50px;
+  max-width: 100%;
+}
+p.clear{
+  clear:both;
+}
+img {
+  margin-left: 20px;
+  max-width: 100%;
+}
+img.baby {
+  float: right;
+  margin-right: 50px;
+  max-width: 100%;
+}
+
+img.mann {
+  float:left;
+  margin-right: 50px;
+  margin-left: 50px;
+  max-width: 100%;
+}
+img.mcdonalds {
+  float: right;
+  margin-right: 40px;
+  max-width: 100%;
+}
+
+img.kanye {
+  float: center;
+  max-width:100%;
+}
+img.MeandJaden{
+  float:left;
+  margin-right: 20px;
+  max-width: 100%;
+}
+
+h2.clear {
+  clear:both;
+}
+
+h3 {
+  font-size: 26px
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: #FF69B4;
+}
+a:hover {
+    color: yellow;
+}
+a:active {
+    color: green;
+}
